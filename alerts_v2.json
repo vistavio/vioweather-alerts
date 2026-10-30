@@ -1,1 +1,1 @@
-{"version":2,"generatedAt":1793367520818,"cycle":1793340000000,"alerts":[{"id":"8:rain:1:2026-10-30","plate":8,"province":"Artvin","type":"rain","level":1,"start":1793379600000,"end":1793437200000,"peakR24":15.3,"peakGust":25.9,"storm":true,"firstSeen":1793304693693},{"id":"28:rain:1:2026-10-30","plate":28,"province":"Giresun","type":"rain","level":1,"start":1793365200000,"end":1793397600000,"peakR24":13.5,"peakGust":26.3,"storm":true,"firstSeen":1793304693693}],"silent":[]}
+{"version":2,"generatedAt":1793391015041,"cycle":1793361600000,"alerts":[],"silent":[]}
