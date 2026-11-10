@@ -1,1 +1,1 @@
-{"version":2,"generatedAt":1794323191025,"cycle":1794290400000,"alerts":[],"history":[{"id":"8:rain:1:2026-11-07","plate":8,"province":"Artvin","type":"rain","level":1,"start":1794229200000,"end":1794240000000,"peakR24":28.4,"peakGust":67.0,"storm":false,"firstSeen":1793912400000,"status":"ended","prevLevel":0,"changedAt":0,"closedAt":1794240000000}],"silent":[],"retracted":[]}
+{"version":2,"generatedAt":1794345753262,"cycle":1794312000000,"alerts":[],"history":[],"silent":[],"retracted":[]}
